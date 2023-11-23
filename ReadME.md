@@ -1,5 +1,4 @@
 Abordarea generala:
-Consider ca implementarea mea poate fi imbunatatita semnificativ. Cu timp si README – Loader de executabile
 Burnichi Alexandra, 324CC
 
 
